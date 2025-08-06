@@ -1,6 +1,6 @@
 {
   "name": "fastify-multi-db-query-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Query Builder untuk Fastify yang mendukung MongoDB dan SQL database",
   "main": "index.js",
   "scripts": {
@@ -20,14 +20,14 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "fastify": "^4.0.0"
+    "fastify": "^5.3.3"
   },
   "dependencies": {
-    "knex": "^3.0.0",
+    "knex": "^3.1.0",
     "mongoose": "^7.0.0"
   },
   "devDependencies": {
-    "fastify": "^4.0.0"
+    "fastify": "^5.3.3"
   },
   "files": [
     "index.js",
